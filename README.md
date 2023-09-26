@@ -1,5 +1,5 @@
 - ch32v003 - https://github.com/openwch/ch32v003
-- ch32v307 - https://github.com/openwch/ch32v307
+- ch32v20x - https://github.com/openwch/ch32v20x
 - wch-ic - https://www.wch-ic.com/
 - https://www.aliexpress.com/item/1005004895791296.html?spm=a2g0o.order_list.order_list_main.5.55251802sr0mh5
 
